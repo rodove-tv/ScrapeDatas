@@ -2,12 +2,12 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 
 async function run(links) {
+  let movies; // Declare movies here
   try {
     const browser = await puppeteer.launch({
       executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe",
     });
     const page = await browser.newPage();
-    let movies; // Declare movies here
 
     for (let link of links) {
       const page = await browser.newPage();
@@ -40,16 +40,9 @@ async function run(links) {
           }
         )
       );
-      console.log(movies);
     }
-
     // Now you can use 'movies' here
     console.log(movies);
-
-    fs.writeFile("./data/movies.json", JSON.stringify(movies), (err) => {
-      if (err) throw err;
-      console.log("File saved");
-    });
 
     await page.close();
 
@@ -57,6 +50,7 @@ async function run(links) {
   } catch (error) {
     console.error("Error occurred:", error); // Log any errors that occur
   }
+  return movies;
 }
 
 module.exports = run;
