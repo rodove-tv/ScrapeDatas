@@ -19,7 +19,7 @@ function extractLinks(html) {
 
 // Main function to scrape links from a website
 async function scrapeLinks() {
-  const url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"; // URL of the website you want to scrape
+  const url = "https://m.imdb.com/search/title/?genres=comedy,drama,romance"; // URL of the website you want to scrape
   const html = await fetchHTML(url);
   const links = extractLinks(html);
   console.log(links); // Output the list of links
