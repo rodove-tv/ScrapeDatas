@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>scraping</title>
+</head>
+<body>
+    <div id="moviesList"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const moviesListElement = document.getElementById("moviesList");
+
+            fetch("movies.json")
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(movie => {
+                        const movieElement = document.createElement("div");
+                        movieElement.innerHTML = `
+                            <h2>${movie.title}</h2>
+                            <p>Année: ${movie.year}</p>
+                            <p>Durée: ${movie.duree}</p>
+                            <p>Note: ${movie.rating}</p>
+                            <p>Réalisateur: ${movie.real}</p>
+                            <p>Acteurs: ${movie.actors}</p>
+                            <p>Classement: ${movie.classement}</p>
+                            <hr>
+                        `;
+                        moviesListElement.appendChild(movieElement);
+                    });
+                })
+                .catch(error => {
+                    console.error("Erreur lors de la récupération des données :", error);
+                });
+        });
+    </script>
+</body>
+</html>

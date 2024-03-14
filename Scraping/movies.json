@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Le Seigneur des anneaux : Le Retour du roi",
+    "year": "2003",
+    "duree": "3h 21min",
+    "rating": "9,0/10",
+    "real": "Peter Jackson",
+    "actors": "J.R.R. TolkienFran WalshPhilippa Boyens",
+    "classement": "215",
+    "synop": "Gandalf et Aragorn mènent le monde des hommes contre l'armée de Sauron pour éloigner son regard de Frodon et Sam lorsqu'ils s'approchent du Mont Destin avec l'Anneau."
+  },
+  {
+    "title": "Le Seigneur des anneaux : La Communauté de l'anneau",
+    "year": "2001",
+    "duree": "2h 58min",
+    "rating": "8,9/10",
+    "real": "Peter Jackson",
+    "actors": "J.R.R. TolkienFran WalshPhilippa Boyens",
+    "classement": "122",
+    "synop": "Un Hobbit du Comté et ses huit compagnons se mettent en route pour détruire le puissant anneau unique et sauver la Terre du Milieu du terrible Sauron."
+  },
+  {
+    "title": "Le bon, la brute et le truand",
+    "year": "1966",
+    "duree": "2h 41min",
+    "rating": "8,8/10",
+    "real": "Sergio Leone",
+    "actors": "Luciano VincenzoniSergio LeoneAgenore Incrocci",
+    "classement": "453",
+    "synop": "Une arnaque à la chasse aux primes associe deux hommes à une alliance difficile contre un troisième dans une course à la recherche d'une fortune en or enfouie dans un cimetière éloigné."
+  },
+  {
+    "title": "Dune: Deuxième partie",
+    "year": "2024",
+    "duree": "2h 46min",
+    "rating": "8,9/10",
+    "real": "Denis Villeneuve",
+    "actors": "Timothée ChalametZendayaRebecca Ferguson",
+    "classement": "1",
+    "synop": "Paul rejoint les Fremen et cherche à se venger des conspirateurs qui ont détruit sa famille, faisant un choix entre l'amour et le sort de l'univers connu alors qu'il s'efforce d'empêcher un avenir terrible que lui seul peut prédire."
+  },
+  {
+    "title": "Le Seigneur des anneaux : Les Deux Tours",
+    "year": "2002",
+    "duree": "2h 59min",
+    "rating": "8,8/10",
+    "real": "Peter Jackson",
+    "actors": "J.R.R. TolkienFran WalshPhilippa Boyens",
+    "classement": "424",
+    "synop": "Tandis que Frodon et Sam se rapprochent de Mordor avec l'aide de Gollum, la communauté divisée prend position contre le nouvel allié de Sauron, Saruman, et ses hordes d'Isengard."
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "duree": "2h 28min",
+    "rating": "8,8/10",
+    "real": "Christopher Nolan",
+    "actors": "Leonardo DiCaprioJoseph Gordon-LevittElliot Page",
+    "classement": "117",
+    "synop": "Un voleur qui s'approprie des secrets d'entreprise à l'aide d'une technique de partage de rêves se voit contraint d'effectuer la tâche inverse : implanter une idée dans l'esprit d'un PDG, pour revoir ses enfants."
+  },
+  {
+    "title": "L'Empire contre-attaque",
+    "year": "1980",
+    "duree": "2h 4min",
+    "rating": "8,7/10",
+    "real": "Irvin Kershner",
+    "actors": "Mark HamillHarrison FordCarrie Fisher",
+    "classement": "478",
+    "synop": "Après que les rebelles soient brutalement maîtrisés par l'Empire sur la planète de glace Hoth, Luke Skywalker commence son entraînement de Jedi avec Yoda, tandis que ses amis sont poursuivis par Dark Vador."
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "duree": "2h 49min",
+    "rating": "8,7/10",
+    "real": "Christopher Nolan",
+    "actors": "Matthew McConaugheyAnne HathawayJessica Chastain",
+    "classement": "54",
+    "synop": "Dans un monde post-apocalyptique et en famine, une équipe d'explorateurs cherche une nouvelle planète habitable pour l'espèce humaine."
+  },
+  {
+    "title": "Terminator 2 : Le jugement dernier",
+    "year": "1991",
+    "duree": "2h 17min",
+    "rating": "8,6/10",
+    "real": "James Cameron",
+    "actors": "Arnold SchwarzeneggerLinda HamiltonEdward Furlong",
+    "classement": "390",
+    "synop": "Un cyborg, identique à celui qui n'a pas réussi à tuer Sarah Connor, doit maintenant protéger son fils adolescent d'un cyborg plus avancé et plus puissant."
+  },
+  {
+    "title": "Star Wars: Épisode IV - Un nouvel espoir",
+    "year": "1977",
+    "duree": "2h 1min",
+    "rating": "8,6/10",
+    "real": "George Lucas",
+    "actors": "Mark HamillHarrison FordCarrie Fisher",
+    "classement": "260",
+    "synop": "Luke Skywalker se joint à un chevalier Jedi, un pilote arrogant, un Wookiee et à deux droïdes pour sauver la galaxie de l'Empire, tout en essayant de sauver la princesse Léia du maléfique Dark Vador."
+  },
+  {
+    "title": "Retour vers le futur",
+    "year": "1985",
+    "duree": "1h 56min",
+    "rating": "8,5/10",
+    "real": "Robert Zemeckis",
+    "actors": "Michael J. FoxChristopher LloydLea Thompson",
+    "classement": "283",
+    "synop": "Marty McFly, un lycéen de 17 ans, est accidentellement envoyé trente ans plus tôt avec une voiture DeLorean qui voyage dans le temps, inventé par son ami le scientifique non-conformiste Doc Brown."
+  },
+  {
+    "title": "Le voyage de Chihiro",
+    "year": "2001",
+    "duree": "2h 5min",
+    "rating": "8,6/10",
+    "real": "Hayao Miyazaki",
+    "actors": "Hayao Miyazaki",
+    "classement": "400",
+    "synop": "Lorsque sa famille déménage en banlieue, une fillette de dix ans renfrognée découvre un monde régi par des dieux, des sorcières et des esprits où les humains sont transformés en animaux."
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": "2023",
+    "duree": "2h 20min",
+    "rating": "8,6/10",
+    "real": "Joaquim Dos Santos",
+    "actors": "Shameik MooreHailee SteinfeldBrian Tyree Henry",
+    "classement": "100",
+    "synop": "Miles se catapulte à travers le multivers, en rencontrant une équipe chargée de protéger l'existence du Multivers. Lorsque les héros s'opposent sur la façon de gérer une nouvelle menace Miles doit redéfinir ce que signifie être un héros."
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "duree": "2h 35min",
+    "rating": "8,5/10",
+    "real": "Ridley Scott",
+    "actors": "David FranzoniJohn LoganWilliam Nicholson",
+    "classement": "144",
+    "synop": "Un ancien général romain cherche à se venger de l'empereur corrompu qui a assassiné sa famille et condamné à l'esclavage."
+  },
+  {
+    "title": "Le Roi Lion",
+    "year": "1994",
+    "duree": "1h 28min",
+    "rating": "8,5/10",
+    "real": "Roger Allers",
+    "actors": "Irene MecchiJonathan RobertsLinda Woolverton",
+    "classement": "417",
+    "synop": "Un lionceau prince héritier est convaincu par son oncle perfide qu'il a causé la mort de son père. Désespéré, il s'enfuit en exil pour apprendre seulement à l'âge adulte son identité et ses responsabilités."
+  },
+  {
+    "title": "WALL·E",
+    "year": "2008",
+    "duree": "1h 38min",
+    "rating": "8,4/10",
+    "real": "Andrew Stanton",
+    "actors": "Andrew StantonPete DocterJim Reardon",
+    "classement": "858",
+    "synop": "Dans un avenir lointain, un petit robot collecteur de déchets entreprendra par inadvertance un voyage dans l'espace qui décidera en fin de compte du sort de l'humanité."
+  },
+  {
+    "title": "Les Aventuriers de l'arche perdue",
+    "year": "1981",
+    "duree": "1h 55min",
+    "rating": "8,4/10",
+    "real": "Steven Spielberg",
+    "actors": "Harrison FordKaren AllenPaul Freeman",
+    "classement": "605",
+    "synop": "En 1936, l 'archéologue et aventurier Indiana Jones est engagé par le gouvernement américain pour trouver l'arche de l'alliance avant que les nazis d'Adolf Hitler ne puissent obtenir ses pouvoirs extraordinaires."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "duree": "2h 29min",
+    "rating": "8,4/10",
+    "real": "Anthony Russo",
+    "actors": "Christopher MarkusStephen McFeelyStan Lee",
+    "classement": "441",
+    "synop": "Les Avengers et leurs alliés devront être prêts à tout sacrifier pour tenter de vaincre le redoutable Thanos avant que son attaque éclair ne conduise à la destruction complète de l'univers."
+  },
+  {
+    "title": "Spider-Man: New Generation",
+    "year": "2018",
+    "duree": "1h 57min",
+    "rating": "8,4/10",
+    "real": "Bob Persichetti",
+    "actors": "Phil LordRodney Rothman",
+    "classement": "517",
+    "synop": "Spider-Man traverse des dimensions parallèles et fait équipe avec les Spider-Man de ces dimensions pour mettre fin à une menace pour toute l'humanité."
+  },
+  {
+    "title": "Aliens : Le Retour",
+    "year": "1986",
+    "duree": "2h 17min",
+    "rating": "8,4/10",
+    "real": "James Cameron",
+    "actors": "James CameronDavid GilerWalter Hill",
+    "classement": "354",
+    "synop": "Ellen Ripley est sauvée par une équipe de sauvetage en profondeur après 57 ans de sommeil extrême. La lune visitée par le Nostromo a été colonisée, mais tout contact a été perdu. Cette fois, les marines coloniales ont une force de frappe impressionnante, mais cela suffira-t-il?"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "duree": "2h 33min",
+    "rating": "8,4/10",
+    "real": "Quentin Tarantino",
+    "actors": "Brad PittDiane KrugerEli Roth",
+    "classement": "191",
+    "synop": "Dans la France occupée de la Seconde Guerre mondiale, un projet d'assassinat de dirigeants nazis par un groupe de soldats juifs américains coïncide avec les plans de vengeance de la propriétaire d'un cinéma."
+  },
+  {
+    "title": "Coco",
+    "year": "2017",
+    "duree": "1h 45min",
+    "rating": "8,4/10",
+    "real": "Lee Unkrich",
+    "actors": "Lee UnkrichJason KatzMatthew Aldrich",
+    "classement": "758",
+    "synop": "Miguel, musicien en herbe, entre au pays des morts pour retrouver son arrière-arrière-grand-père, un chanteur légendaire alors qu'il a interdiction de jouer de la musique."
+  },
+  {
+    "title": "Toy Story",
+    "year": "1995",
+    "duree": "1h 21min",
+    "rating": "8,3/10",
+    "real": "John Lasseter",
+    "actors": "John LasseterPete DocterAndrew Stanton",
+    "classement": "792",
+    "synop": "Dans la chambre d'un petit garçon, un cowboy jaloux se sent profondément menacé quand le nouvel astronaute prend sa place de jouet favori."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "duree": "3h 1min",
+    "rating": "8,4/10",
+    "real": "Anthony Russo",
+    "actors": "Christopher MarkusStephen McFeelyStan Lee",
+    "classement": "197",
+    "synop": "Après les événements dévastateurs d'Avengers: Infinity War, l'univers est en ruine. Avec l'aide des alliés restants, les Avengers se rassemblent une fois de plus afin d'inverser les actions de Thanos et rétablir l'équilibre dans l'univers."
+  },
+  {
+    "title": "Princesse Mononoké",
+    "year": "1997",
+    "duree": "2h 14min",
+    "rating": "8,3/10",
+    "real": "Hayao Miyazaki",
+    "actors": "Hayao MiyazakiNeil Gaiman",
+    "classement": "1 235",
+    "synop": "En quête d'un remède contre la malédiction d'un Tatarigami, Ashitaka se retrouve plongé au coeur d'une guerre entre les dieux de la forêt et Tatara, une colonie minière. Dans cette quête, il fait la rencontre de San, la princesse Mononoke."
+  },
+  {
+    "title": "Toy Story 3",
+    "year": "2010",
+    "duree": "1h 43min",
+    "rating": "8,3/10",
+    "real": "Lee Unkrich",
+    "actors": "John LasseterAndrew StantonLee Unkrich",
+    "classement": "1 471",
+    "synop": "Les jouets sont livrés par erreur à une garderie au lieu d'être remisés au grenier juste avant qu'Andy ne parte pour l'université, et c'est à Woody de convaincre les autres jouets qu'ils n'ont pas été abandonnés et de retourner à la maison."
+  },
+  {
+    "title": "Le Retour du Jedi",
+    "year": "1983",
+    "duree": "2h 11min",
+    "rating": "8,3/10",
+    "real": "Richard Marquand",
+    "actors": "Lawrence KasdanGeorge Lucas",
+    "classement": "679",
+    "synop": "Après une mission risquée qui a permis de sauver Han Solo des mains de Jabba le Hutt, les rebelles se rendent à Endor pour détruire une nouvelle Etoile de la mort, encore plus puissante. Pendant ce temps, Luke se bat pour aider Dark Vador à sortir du côté obscur sans tomber dans le piège de l'Empereur."
+  },
+  {
+    "title": "2001 : L'Odyssée de l'espace",
+    "year": "1968",
+    "duree": "2h 29min",
+    "rating": "8,3/10",
+    "real": "Stanley Kubrick",
+    "actors": "Stanley KubrickArthur C. Clarke",
+    "classement": "342",
+    "synop": "De la nuit des temps à l'humanité atteignant les étoiles, 2001: L'odyssée de l'espace raconte l'histoire du Monolithe Noir, l'évolution de l'humanité et l'essor du superordinateur ultime HAL 9000 doté d'intelligence artificielle."
+  },
+  {
+    "title": "Lawrence d'Arabie",
+    "year": "1962",
+    "duree": "3h 38min",
+    "rating": "8,3/10",
+    "real": "David Lean",
+    "actors": "Peter O'TooleAlec GuinnessAnthony Quinn",
+    "classement": "751",
+    "synop": "Sur fond d'intrigues géo-politiques cyniques, l'épopée inouïe et la quête pure de l'extraordinaire et si fragile lieutenant Lawrence - amoureux du désert, et chantre déçu de l'identité arabe. Un film somptueux qui nous emporte comme une vague, en musique. [255]"
+  },
+  {
+    "title": "La mort aux trousses",
+    "year": "1959",
+    "duree": "2h 16min",
+    "rating": "8,3/10",
+    "real": "Alfred Hitchcock",
+    "actors": "Cary GrantEva Marie SaintJames Mason",
+    "classement": "2 089",
+    "synop": "Publicitaire infortuné de la ville de New York, il est pris pour un agent du gouvernement par un groupe d'espions étrangers et est poursuivi dans tout le pays alors qu'il cherche un moyen de survivre."
+  },
+  {
+    "title": "Là-haut",
+    "year": "2009",
+    "duree": "1h 36min",
+    "rating": "8,3/10",
+    "real": "Pete Docter",
+    "actors": "Pete DocterBob PetersonTom McCarthy",
+    "classement": "864",
+    "synop": "Carl Fredricksen, âgé de soixante-dix-huit ans, se rend en Amérique du Sud dans sa maison équipée de ballons et emmène avec lui un jeune passager clandestin par inadvertance."
+  },
+  {
+    "title": "Indiana Jones et la dernière croisade",
+    "year": "1989",
+    "duree": "2h 7min",
+    "rating": "8,2/10",
+    "real": "Steven Spielberg",
+    "actors": "Jeffrey BoamGeorge LucasMenno Meyjes",
+    "classement": "1 450",
+    "synop": "En 1938, après la disparition de son père le professeur Henry Jones Senior dans sa poursuite du Saint Graal, Indiana Jones se retrouve de nouveau confronté aux nazis d'Adolf Hitler pour les empêcher d'acquérir ses pouvoirs."
+  },
+  {
+    "title": "Jurassic Park",
+    "year": "1993",
+    "duree": "2h 7min",
+    "rating": "8,2/10",
+    "real": "Steven Spielberg",
+    "actors": "Michael CrichtonDavid Koepp",
+    "classement": "244",
+    "synop": "Grâce à l'ADN fossilisé dans l'ambre, John Hammond donne vie à plusieurs espèces de dinosaures et crée Jurassic Park, un parc à thème sur une île du Costa Rica. Mais ce qui ressemblait à un rêve devient rapidement un cauchemar."
+  },
+  {
+    "title": "Le Trésor de la Sierra Madre",
+    "year": "1948",
+    "duree": "2h 6min",
+    "rating": "8,2/10",
+    "real": "John Huston",
+    "actors": "Humphrey BogartWalter HustonTim Holt",
+    "classement": "3 845",
+    "synop": "Deux Américains à la recherche d'un emploi au Mexique convainquent un ancien prospecteur de les aider à chercher de l'or dans les montagnes de la Sierra Madre."
+  },
+  {
+    "title": "Monty Python : Sacré Graal !",
+    "year": "1975",
+    "duree": "1h 31min",
+    "rating": "8,2/10",
+    "real": "Terry Gilliam",
+    "actors": "Graham ChapmanJohn CleeseEric Idle",
+    "classement": "1 689",
+    "synop": "Le Roi Arthur et ses chevaliers se lancent dans une quête du Graal à petit budget, rencontrant de nombreux obstacles très stupides."
+  },
+  {
+    "title": "La Grande Évasion",
+    "year": "1963",
+    "duree": "2h 52min",
+    "rating": "8,2/10",
+    "real": "John Sturges",
+    "actors": "Steve McQueenJames GarnerRichard Attenborough",
+    "classement": "1 314",
+    "synop": "Des prisonniers de guerre alliés prévoient l'évasion de plusieurs centaines de personnes d'un camp allemand pendant la Seconde Guerre mondiale."
+  },
+  {
+    "title": "Le Monde de Nemo",
+    "year": "2003",
+    "duree": "1h 40min",
+    "rating": "8,2/10",
+    "real": "Andrew Stanton",
+    "actors": "Andrew StantonBob PetersonDavid Reynolds",
+    "classement": "686",
+    "synop": "Après la capture de son fils au Grand Recif de Corail , qui est amené à Sydney, un poisson clown timide embarque sur une aventure afin de ramener son fils à la maison."
+  },
+  {
+    "title": "Le château ambulant",
+    "year": "2004",
+    "duree": "1h 59min",
+    "rating": "8,2/10",
+    "real": "Hayao Miyazaki",
+    "actors": "Chieko BaishôTakuya KimuraTatsuya Gashûin",
+    "classement": "680",
+    "synop": "Lorsqu'une jeune femme peu sûre d'elle est maudite par une sorcière malveillante, sa seule chance de conjurer le sort est un jeune sorcier égoïste manquant d'assurance, et ses compagnons dans leur château ambulant."
+  },
+  {
+    "title": "Vice-versa",
+    "year": "2015",
+    "duree": "1h 35min",
+    "rating": "8,1/10",
+    "real": "Pete Docter",
+    "actors": "Pete DocterRonnie Del CarmenMeg LeFauve",
+    "classement": "263",
+    "synop": "Après avoir quitté sa vie dans le Midwest à contrecoeur et déménagé à San Francisco, la jeune Riley et ses émotions Joie, Peur, Colère, Dégoût et Tristesse s'opposent quant au meilleur moyen de gérer une nouvelle ville, une nouvelle maison et une nouvelle école."
+  },
+  {
+    "title": "Le pont de la rivière Kwaï",
+    "year": "1957",
+    "duree": "2h 41min",
+    "rating": "8,1/10",
+    "real": "David Lean",
+    "actors": "William HoldenAlec GuinnessJack Hawkins",
+    "classement": "2 927",
+    "synop": "Après avoir résolu ses différends avec le commandant d'un camp japonais de prisonniers de guerre, un colonel britannique coopère pour superviser la construction par ses hommes d'un pont ferroviaire pour leurs geôliers, sans savoir que les Alliés prévoient de le détruire."
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "duree": "2h 28min",
+    "rating": "8,2/10",
+    "real": "Jon Watts",
+    "actors": "Chris McKennaErik SommersStan Lee",
+    "classement": "184",
+    "synop": "L'identité de Spider-Man étant désormais révélée, Peter demande de l'aide au docteur Strange. Lorsqu'un sort tourne mal, des ennemis commencent à apparaître, forçant Peter à découvrir ce que signifie vraiment être Spider-Man."
+  },
+  {
+    "title": "La légende de Klaus",
+    "year": "2019",
+    "duree": "1h 36min",
+    "rating": "8,2/10",
+    "real": "Sergio Pablos",
+    "actors": "Sergio PablosJim MahoneyZach Lewis",
+    "classement": "4 392",
+    "synop": "Un simple acte de gentillesse en suscite toujours un autre, même dans un endroit glacé et lointain. Jesper, le nouveau facteur de Smeerensburg, se lie d’amitié avec le fabricant de jouets Klaus."
+  },
+  {
+    "title": "Godzilla Minus One",
+    "year": "2023",
+    "duree": "2h 4min",
+    "rating": "8,3/10",
+    "real": "Takashi Yamazaki",
+    "actors": "Sakura AndôMinami HamabeRyunosuke Kamiki",
+    "classement": "101",
+    "synop": "Le Japon d'après-guerre est au plus bas lorsqu'une nouvelle crise émerge sous la forme d'un monstre géant, baptisé par l'effroyable puissance de la bombe atomique."
+  },
+  {
+    "title": "Harry Potter et les Reliques de la Mort : partie 2",
+    "year": "2011",
+    "duree": "2h 10min",
+    "rating": "8,1/10",
+    "real": "David Yates",
+    "actors": "Daniel RadcliffeEmma WatsonRupert Grint",
+    "classement": "512",
+    "synop": "Harry, Ron et Hermione recherchent les Horcruxes restants de Voldemort pour pouvoir détruire le Seigneur des Ténèbres alors que la bataille finale fait rage à Poudlard."
+  },
+  {
+    "title": "The Grand Budapest hotel",
+    "year": "2014",
+    "duree": "1h 39min",
+    "rating": "8,1/10",
+    "real": "Wes Anderson",
+    "actors": "Stefan ZweigWes AndersonHugo Guinness",
+    "classement": "487",
+    "synop": "Les aventures de Gustave H, concierge légendaire du célèbre hôtel de la République fictive de Zubrowka entre la première et la seconde guerre mondiale, et Zero Moustafa, le lobby-boy qui devient son plus grand ami de confiance."
+  },
+  {
+    "title": "Ben-Hur",
+    "year": "1959",
+    "duree": "3h 32min",
+    "rating": "8,1/10",
+    "real": "William Wyler",
+    "actors": "Lew WallaceKarl TunbergGore Vidal",
+    "classement": "1 859",
+    "synop": "Lorsqu'un prince juif est trahi et envoyé aux galères par un ami romain, il recouvre sa liberté et revient se venger."
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": "1975",
+    "duree": "3h 5min",
+    "rating": "8,1/10",
+    "real": "Stanley Kubrick",
+    "actors": "Ryan O'NealMarisa BerensonPatrick Magee",
+    "classement": "1 657",
+    "synop": "En Angleterre au dix-huitième siècle, un Irlandais malhonnête gagne le coeur d'une veuve riche et assume la position aristocratique de son mari décédé."
+  },
+  {
+    "title": "La ruée vers l'or",
+    "year": "1925",
+    "duree": "1h 35min",
+    "rating": "8,1/10",
+    "real": "Charles Chaplin",
+    "actors": "Charles ChaplinMack SwainTom Murray",
+    "classement": null,
+    "synop": "Le célèbre assaut pour tout l'or de l'Oklahoma vu par l'un des maîtres du burlesque américain."
+  },
+  {
+    "title": "Le mécano de la Générale",
+    "year": "1926",
+    "duree": "1h 18min",
+    "rating": "8,1/10",
+    "real": "Clyde Bruckman",
+    "actors": "Buster KeatonClyde BruckmanAl Boasberg",
+    "classement": null,
+    "synop": "Lorsque des espions volent la locomotive bien-aimée d'un ingénieur, il la poursuit à travers les lignes ennemies."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": "2015",
+    "duree": "2h",
+    "rating": "8,1/10",
+    "real": "George Miller",
+    "actors": "Tom HardyCharlize TheronNicholas Hoult",
+    "classement": "128",
+    "synop": "Dans un désert post-apocalyptique, une femme se rebelle contre un dirigeant tyrannique à la recherche de sa patrie avec l'aide d'un groupe de prisonnières, une adoratrice psychotique et un vagabond nommé Max."
+  },
+  {
+    "title": "Monstres & Cie",
+    "year": "2001",
+    "duree": "1h 32min",
+    "rating": "8,1/10",
+    "real": "Pete Docter",
+    "actors": "Pete DocterJill CultonJeff Pidgeon",
+    "classement": "872",
+    "synop": "Afin de pouvoir alimenter la ville en énergie, des monstres doivent effrayer les enfants pour qu'ils crient. Les enfants sont cependant toxiques pour les monstres, et lorsque l'un d'entre eux parvient à passer dans leur monde, deux monstres réalisent que les choses ne sont peut-être pas comme ils le pensent."
+  },
+  {
+    "title": "Le salaire de la peur",
+    "year": "1953",
+    "duree": "2h 36min",
+    "rating": "8,2/10",
+    "real": "Henri-Georges Clouzot",
+    "actors": "Yves MontandCharles VanelPeter van Eyck",
+    "classement": null,
+    "synop": "Dans un village d'Amérique du Sud délabré, quatre hommes sont embauchés pour transporter une cargaison urgente de nitroglycérine sans l'équipement nécessaire pour sécuriser l'opération."
+  },
+  {
+    "title": "Les Dents de la mer",
+    "year": "1975",
+    "duree": "2h 4min",
+    "rating": "8,1/10",
+    "real": "Steven Spielberg",
+    "actors": "Peter BenchleyCarl Gottlieb",
+    "classement": "720",
+    "synop": "Un shérif local, un biologiste marin et un vieux marin font équipe pour chasser un grand requin blanc qui fait des ravages dans une station balnéaire."
+  },
+  {
+    "title": "Dragons",
+    "year": "2010",
+    "duree": "1h 38min",
+    "rating": "8,1/10",
+    "real": "Dean DeBlois",
+    "actors": "William DaviesDean DeBloisChris Sanders",
+    "classement": "906",
+    "synop": "Un jeune Viking malchanceux qui voudra chasser des dragons devient ami inattendu d'un dragon, et apprend désormais qu''être dragon' est bien plus qu'il le croyait."
+  },
+  {
+    "title": "Ratatouille",
+    "year": "2007",
+    "duree": "1h 51min",
+    "rating": "8,1/10",
+    "real": "Brad Bird",
+    "actors": "Brad BirdJan PinkavaJim Capobianco",
+    "classement": "533",
+    "synop": "Un rat qui sait cuisiner s'allie avec un jeune commis de cuisine dans un grand restaurant."
+  },
+  {
+    "title": "Terminator",
+    "year": "1984",
+    "duree": "1h 47min",
+    "rating": "8,1/10",
+    "real": "James Cameron",
+    "actors": "Arnold SchwarzeneggerLinda HamiltonMichael Biehn",
+    "classement": "433",
+    "synop": "Un androïde apparemment indestructible est envoyé de 2029 à 1984 pour assassiner une serveuse dont le fils qui n'est pas encore né mènera l'humanité à une guerre contre les machines, tandis qu'un soldat de cette guerre est envoyé pour la protéger à tout prix."
+  },
+  {
+    "title": "Pirates des Caraïbes : La malédiction du Black Pearl",
+    "year": "2003",
+    "duree": "2h 23min",
+    "rating": "8,1/10",
+    "real": "Gore Verbinski",
+    "actors": "Ted ElliottTerry RossioStuart Beattie",
+    "classement": "196",
+    "synop": "Le forgeron Will Turner fait équipe avec le pirate excentrique \"Capitaine\" Jack Sparrow pour sauver la fille du gouverneur dont il est amoureux des anciens alliés pirates de Jack, à présent devenus morts-vivants."
+  },
+  {
+    "title": "Stand by Me : Compte sur moi",
+    "year": "1986",
+    "duree": "1h 29min",
+    "rating": "8,1/10",
+    "real": "Rob Reiner",
+    "actors": "Wil WheatonRiver PhoenixCorey Feldman",
+    "classement": "286",
+    "synop": "Après la mort d'un ami, un écrivain raconte un périple d'enfance avec pour but de retrouver le corps d'un garçon disparu."
+  },
+  {
+    "title": "Le Magicien d'Oz",
+    "year": "1939",
+    "duree": "1h 42min",
+    "rating": "8,1/10",
+    "real": "Victor Fleming",
+    "actors": "Noel LangleyFlorence RyersonEdgar Allan Woolf",
+    "classement": "645",
+    "synop": "Emportée par une tornade, Dorothée se retrouve dans le monde magique d'Oz. Accompagnée par de nouveaux amis, elle se met en quête du magicien de ces lieux afin qu'il réalise leur souhait et qu'elle puisse rentrer auprès des siens."
+  },
+  {
+    "title": "Les Indestructibles",
+    "year": "2004",
+    "duree": "1h 55min",
+    "rating": "8,0/10",
+    "real": "Brad Bird",
+    "actors": "Craig T. NelsonSamuel L. JacksonHolly Hunter",
+    "classement": "560",
+    "synop": "Une famille de super-héros infiltrés essayant de vivre dans une banlieue tranquille est forcée d'agir pour sauver le monde."
+  },
+  {
+    "title": "Into the Wild",
+    "year": "2007",
+    "duree": "2h 28min",
+    "rating": "8,1/10",
+    "real": "Sean Penn",
+    "actors": "Emile HirschVince VaughnCatherine Keener",
+    "classement": "707",
+    "synop": "Fraîchement diplômé de l'Université Emory, le meilleur étudiant et athlète Christopher McCandless abandonne ses possessions, offre le contenu de son compte d'épargne de 24 000 dollars à une association caritative et se rend en Alaska en auto-stop pour vivre dans la nature. En chemin, Christopher rencontre un ensemble de personnages qui façonnent sa vie."
+  },
+  {
+    "title": "Le géant de fer",
+    "year": "1999",
+    "duree": "1h 26min",
+    "rating": "8,1/10",
+    "real": "Brad Bird",
+    "actors": "Tim McCanliesBrad BirdTed Hughes",
+    "classement": "1 875",
+    "synop": "Dans le nord-est des États-Unis, à la fin des années 1950, un grand robot - d'une hauteur de 30 m - d'origine extraterrestre, se lie d'amitié avec un garçon de huit ans et un jeune artiste beatnik."
+  },
+  {
+    "title": "Danse avec les loups",
+    "year": "1990",
+    "duree": "3h 1min",
+    "rating": "8,0/10",
+    "real": "Kevin Costner",
+    "actors": "Michael Blake",
+    "classement": "1 026",
+    "synop": "Pendant la guerre de Sécession, le lieutenant John Dunbar, affecté à un poste éloigné dans l'Ouest du pays, se lie d'amitié avec les loups et les Indiens. Pour l'armée, ces liens sont inacceptables."
+  }
+]
